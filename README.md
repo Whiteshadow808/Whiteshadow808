@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Whiteshadow
+- 👋 Hi, I’m jishnu prasad
 - 👀 I’m interested in Hacking and pentesting👨🏻‍💻
 - 🌱 I’m currently learning Machine learning🤖
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me :insta @lostarc
+- 📫 How to reach me :+91 9188455275
 
 <!---
 Whiteshadow808/Whiteshadow808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
